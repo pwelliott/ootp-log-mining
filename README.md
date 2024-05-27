@@ -1,6 +1,6 @@
 # ootp-log-mining
 
-FIXME: description
+Aspirationally, a Clojure software package for parsing OOTP log data and transforming it into forms more conducive to statistical analysis and modeling.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Download from here.
 
 ## Usage
 
-FIXME: explanation
+Not ready to use
 
     $ java -jar ootp-log-mining-0.1.0-standalone.jar [args]
 
@@ -18,9 +18,5 @@ None so far
 ## Examples
 None so far
 
-### Bugs
+## Bugs
 None so far
-
-### Any Other Sections
-### That You Think
-### Might be Useful
